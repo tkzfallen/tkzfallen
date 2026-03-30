@@ -16,6 +16,9 @@ Hi, I'm Takie 👋
 ![CSS](https://img.shields.io/badge/CSS-blueviolet)
 
 ---
-
+## Showcase
+- Codeforces: https://codeforces.com/profile/tkzfallen
+- Behance: https://www.behance.net/tkzfallen
+---
 ##  Contact
 - Email: takiefreq.use@gmail.com
